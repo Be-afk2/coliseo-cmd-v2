@@ -1,0 +1,16 @@
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.AssemblyInfoInputs.cache
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.AssemblyInfo.cs
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.csproj.CoreCompileInputs.cache
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.csproj.AssemblyReference.cache
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\2.exe
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\2.deps.json
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\2.runtimeconfig.json
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\2.runtimeconfig.dev.json
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\2.dll
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\ref\2.dll
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\bin\Debug\net5.0\2.pdb
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.dll
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\ref\2.dll
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.pdb
+C:\Users\cleoe\Desktop\benja\c#\2\2\2\obj\Debug\net5.0\2.genruntimeconfig.cache

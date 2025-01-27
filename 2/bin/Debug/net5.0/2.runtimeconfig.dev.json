@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cleoe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cleoe\\.nuget\\packages"
+    ]
+  }
+}
